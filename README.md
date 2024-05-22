@@ -12,7 +12,7 @@
   - eg: insert into t_apollo_config (project_name, env, content) values ('test001','sit', '{"a1":"sit","a2":"kkkk"}');
 
 # Demo效果
-![mysql_apollo_demo](./doc/mysql_apollo_demo.png)
+![mysql_apollo_demo](./mysql_apollo_demo.png)
 
 
 # pip依赖
